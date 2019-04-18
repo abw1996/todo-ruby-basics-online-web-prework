@@ -1,5 +1,5 @@
 def division(num1, num2)
- butt = num1 - num2
+ butt = num1 / num2
  puts butt
  return butt
 end
